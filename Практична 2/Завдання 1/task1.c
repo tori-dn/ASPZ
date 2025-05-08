@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <time. h>
+#include <time.h>
 #include <limits.h>
 
 int main() {
